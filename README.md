@@ -2,7 +2,7 @@
 
 # fitmarkets/.github
 
-[![Version](https://img.shields.io/badge/version-v1.0.0-1C80C0)](https://github.com/fitmarkets/.github/releases/v1.0.0)
+[![Version](https://img.shields.io/badge/version-v1.1.0-1C80C0)](https://github.com/fitmarkets/.github/releases/v1.1.0)
 
 :rotating_light: **WARNING** :rotating_light: 
 
