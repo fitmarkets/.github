@@ -1,4 +1,13 @@
 # Changelog
+### [1.1.3](https://github.com/fitmarkets/.github/compare/v1.1.2...v1.1.3) (2021-06-05)
+
+
+### Maintenance
+
+* merge pull request [#5](https://github.com/fitmarkets/.github/issues/5) ([6fc352a](https://github.com/fitmarkets/.github/commits/6fc352a489f44fba6f8ab964f61de87ea0410a8d))
+* update version in readmes to v1.1.3 ([d0eaeed](https://github.com/fitmarkets/.github/commits/d0eaeed97d43f4a5fc43b03408505f656105a03c))
+* **ci:** rm unused step in release wf ([0bf8bda](https://github.com/fitmarkets/.github/commits/0bf8bda79968e648246d55dfbaf7eb98816a6331))
+
 ### [1.1.2](https://github.com/fitmarkets/.github/compare/v1.1.1...v1.1.2) (2021-06-05)
 
 
