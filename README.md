@@ -4,4 +4,4 @@
 
 Metadata for @fitmarkets organization
 
-[![Version](https://img.shields.io/badge/version-v1.1.1-1C80C0)](https://github.com/fitmarkets/.github/releases/v1.1.1)
+[![Version](https://img.shields.io/badge/version-v1.1.2-1C80C0)](https://github.com/fitmarkets/.github/releases/v1.1.2)
