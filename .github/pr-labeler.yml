@@ -8,3 +8,7 @@ fix:
 chore: 
   - '*chore*'
   - '*maintenance*'
+  - '*ci*'
+documentaion:
+  - '*docs*'
+  - '*documentation*'
