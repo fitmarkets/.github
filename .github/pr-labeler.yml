@@ -9,6 +9,6 @@ chore:
   - '*chore*'
   - '*maintenance*'
   - '*ci*'
-documentaion:
+documentation:
   - '*docs*'
   - '*documentation*'
