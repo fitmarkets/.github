@@ -28,13 +28,6 @@ jobs:
           echo "release_as=${{ github.event.inputs.release_as }}" >> $GITHUB_ENV;
           echo "git_tag_previous=${{ github.event.inputs.git_tag_previous }}" >> $GITHUB_ENV;
 
-      - name: set workflow variables
-        if: ${{ github.event_name != 'workflow_dispatch' }}
-        run: |
-          echo "prerelease=" >> $GITHUB_ENV;
-          echo "release_as=" >> $GITHUB_ENV;
-          echo "git_tag_previous=" >> $GITHUB_ENV;
-
       - name: fetch secrets
         uses: google-github-actions/get-secretmanager-secrets@main
         id: secrets
