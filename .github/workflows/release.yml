@@ -1,15 +1,6 @@
 name: Release
 
 on:
-  push:
-    branches:
-      - main
-    paths-ignore:		
-      - 'CHANGELOG.md'
-      - '.grenrc.json'
-      - '.versionrc.json'
-      - 'package.json'
-      - 'README.md'
   workflow_dispatch:
     inputs:
       prerelease:
