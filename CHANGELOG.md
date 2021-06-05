@@ -1,4 +1,18 @@
 # Changelog
+## [1.1.0](https://github.com/fitmarkets/.github/compare/v1.0.0...v1.1.0) (2021-06-05)
+
+
+### Features
+
+* **ci:** add release workflow ([971e3fe](https://github.com/fitmarkets/.github/commits/971e3fea1c89296795e7d9b4be7c76bd82dd11b6))
+
+
+### Maintenance
+
+* add release shell script ([b3508d0](https://github.com/fitmarkets/.github/commits/b3508d09cdfaafef34f97b70c3b92b7cdf35cf82))
+* merge pull request [#1](https://github.com/fitmarkets/.github/issues/1) ([c593a95](https://github.com/fitmarkets/.github/commits/c593a95947f9cc02f7a319dfe01ae74a81517014))
+* update version in readmes to v1.1.0 ([7c3af82](https://github.com/fitmarkets/.github/commits/7c3af82c8a9d585eddc4379aa935e57ac69036a1))
+
 ## 1.0.0 (2021-06-05)
 
 
