@@ -1,4 +1,21 @@
 # Changelog
+### [1.1.2](https://github.com/fitmarkets/.github/compare/v1.1.1...v1.1.2) (2021-06-05)
+
+
+### Fixes
+
+* **ci:** pr labeler config ([faa4780](https://github.com/fitmarkets/.github/commits/faa4780475f58cfe6fa83704f8a8dd917946db4a))
+* **ci:** readme version badge ([ed2d077](https://github.com/fitmarkets/.github/commits/ed2d077f09abea722d57cd8448ba46216fabdb14))
+
+
+### Maintenance
+
+* merge pull request [#3](https://github.com/fitmarkets/.github/issues/3) ([f2badd2](https://github.com/fitmarkets/.github/commits/f2badd23a7b1563244e00bf1a6091bc04d729484))
+* merge pull request [#4](https://github.com/fitmarkets/.github/issues/4) ([f8e0655](https://github.com/fitmarkets/.github/commits/f8e065525864ad98c2990ec0de128577f480f932))
+* remove push trigger from release wf ([7bb1b4a](https://github.com/fitmarkets/.github/commits/7bb1b4aaaee7f28c99c5e5f6fba1b88dc0f96335))
+* update readme ([b6f6640](https://github.com/fitmarkets/.github/commits/b6f6640c1a366b6fe97f6fc879fb7a6080bab080))
+* update version in readmes to v1.1.2 ([f120a2a](https://github.com/fitmarkets/.github/commits/f120a2abb2ccd3ca1a3dd8a4debec5d68729f0c1))
+
 ### [1.1.1](https://github.com/fitmarkets/.github/compare/v1.1.0...v1.1.1) (2021-06-05)
 
 
